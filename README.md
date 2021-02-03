@@ -1,2 +1,2 @@
 # Selenium-Java
-Automatizar pruebas funcionales usando las buena practicas de la programación.
+Automatizar pruebas funcionales usando las buenas practicas de la programación.
